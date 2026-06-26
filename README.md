@@ -1,0 +1,45 @@
+/* Bước 3: Thẻ nội dung (body) - sửa đổi font-family và font-size */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+/* Bước 4: Thẻ tiêu đề (header) - sửa đổi background-color */
+header {
+    background-color: #e0f7fa; 
+}
+
+/* Bước 5: Thẻ nav - sửa đổi background-color */
+nav {
+    background-color: #00838f;
+}
+
+/* Bước 6: Thẻ chính (main) - sửa đổi background-color và font-size */
+main {
+    background-color: #ffffff;
+    font-size: 18px;
+}
+
+/* Bước 7: Thẻ chân trang (footer) - sửa đổi background-color */
+footer {
+    background-color: #eeeeee;
+}
+
+/* Bước 8: Thẻ danh sách (li) - sửa đổi display và width */
+/* Lưu ý: Thường dùng để làm menu ngang */
+li {
+    display: inline-block; 
+    width: 120px;
+}
+
+/* Bước 9: Thẻ tiêu đề 1 (h1) - sửa đổi text-align, font-family và color */
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #2c3e50;
+}
+
+/* Bước 10: Thẻ đoạn văn (p) - sửa đổi line-height (chiều cao dòng) */
+p {
+    line-height: 1.6;
+}
